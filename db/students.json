@@ -1,0 +1,205 @@
+[
+  {
+    "id": 0,
+    "name": "Baxter",
+    "score": 71,
+    "gender": "female",
+    "major": "Computer Science"
+  },
+  {
+    "id": 1,
+    "name": "Dillon",
+    "score": 55,
+    "gender": "female",
+    "major": "Physics"
+  },
+  {
+    "id": 2,
+    "name": "Bradley",
+    "score": 84,
+    "gender": "male",
+    "major": "Computer Science"
+  },
+  {
+    "id": 3,
+    "name": "Velasquez",
+    "score": 88,
+    "gender": "female",
+    "major": "Computer Science"
+  },
+  {
+    "id": 4,
+    "name": "Soto",
+    "score": 40,
+    "gender": "male",
+    "major": "Chinese"
+  },
+  {
+    "id": 5,
+    "name": "Fulton",
+    "score": 93,
+    "gender": "female",
+    "major": "Computer Science"
+  },
+  {
+    "id": 6,
+    "name": "Stein",
+    "score": 79,
+    "gender": "male",
+    "major": "Math"
+  },
+  {
+    "id": 7,
+    "name": "Jordan",
+    "score": 87,
+    "gender": "female",
+    "major": "Design"
+  },
+  {
+    "id": 8,
+    "name": "Hampton",
+    "score": 38,
+    "gender": "male",
+    "major": "Design"
+  },
+  {
+    "id": 9,
+    "name": "Delacruz",
+    "score": 57,
+    "gender": "male",
+    "major": "Physics"
+  },
+  {
+    "id": 10,
+    "name": "Brock",
+    "score": 84,
+    "gender": "male",
+    "major": "Physics"
+  },
+  {
+    "id": 11,
+    "name": "Irwin",
+    "score": 84,
+    "gender": "male",
+    "major": "Computer Science"
+  },
+  {
+    "id": 12,
+    "name": "Rocha",
+    "score": 88,
+    "gender": "male",
+    "major": "Physics"
+  },
+  {
+    "id": 13,
+    "name": "Beck",
+    "score": 62,
+    "gender": "male",
+    "major": "Math"
+  },
+  {
+    "id": 14,
+    "name": "Wilkerson",
+    "score": 65,
+    "gender": "male",
+    "major": "Computer Science"
+  },
+  {
+    "id": 15,
+    "name": "Campbell",
+    "score": 94,
+    "gender": "female",
+    "major": "Physics"
+  },
+  {
+    "id": 16,
+    "name": "Holman",
+    "score": 87,
+    "gender": "male",
+    "major": "Design"
+  },
+  {
+    "id": 17,
+    "name": "Talley",
+    "score": 74,
+    "gender": "male",
+    "major": "Computer Science"
+  },
+  {
+    "id": 18,
+    "name": "Bonner",
+    "score": 86,
+    "gender": "female",
+    "major": "Physics"
+  },
+  {
+    "id": 19,
+    "name": "Stewart",
+    "score": 89,
+    "gender": "male",
+    "major": "Math"
+  },
+  {
+    "id": 20,
+    "name": "Whitney",
+    "score": 63,
+    "gender": "female",
+    "major": "Design"
+  },
+  {
+    "id": 21,
+    "name": "Andrews",
+    "score": 85,
+    "gender": "female",
+    "major": "Computer Science"
+  },
+  {
+    "id": 22,
+    "name": "Valenzuela",
+    "score": 38,
+    "gender": "male",
+    "major": "Chinese"
+  },
+  {
+    "id": 23,
+    "name": "Carney",
+    "score": 78,
+    "gender": "male",
+    "major": "Design"
+  },
+  {
+    "id": 24,
+    "name": "Sosa",
+    "score": 74,
+    "gender": "female",
+    "major": "Math"
+  },
+  {
+    "id": 25,
+    "name": "Barrera",
+    "score": 88,
+    "gender": "female",
+    "major": "Computer Science"
+  },
+  {
+    "id": 26,
+    "name": "Hines",
+    "score": 63,
+    "gender": "male",
+    "major": "Chinese"
+  },
+  {
+    "id": 27,
+    "name": "Rojas",
+    "score": 43,
+    "gender": "female",
+    "major": "Math"
+  },
+  {
+    "id": 28,
+    "name": "Workman",
+    "score": 93,
+    "gender": "male",
+    "major": "Chinese"
+  }
+]
