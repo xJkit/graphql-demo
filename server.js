@@ -7,7 +7,7 @@ import { graphqlExpress, graphiqlExpress } from 'apollo-server-express';
 import schema from './schema';
 
 // database connection
-mongoose.connect('mongodb://localhost:27017/graphql-db')
+mongoose.connect('mongodb://localhost:27017/graphql-db');
 mongoose.connection.once('open', () => {
   console.log('====================================');
   console.log('seccessfully connect to mongo db');
